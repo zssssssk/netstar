@@ -1,0 +1,3 @@
+/home/zs/Desktop/netstar/build/CMakeFiles/rebuild_cache.dir
+/home/zs/Desktop/netstar/build/CMakeFiles/edit_cache.dir
+/home/zs/Desktop/netstar/build/CMakeFiles/netstar.dir
